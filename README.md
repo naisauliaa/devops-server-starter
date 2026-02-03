@@ -1,13 +1,13 @@
 # Server Automation Setup Script 
 
-Repository ini berisi skrip otomasi untuk inisialisasi server (Bootstrapping) menggunakan **Bash Script**. Proyek ini dibuat untuk memenuhi **Tugas Ujian Praktik Poin 5 & 6**.
+Repository ini berisi skrip otomasi untuk inisialisasi server (Bootstrapping) menggunakan **Bash Script**.
 
 ## Lingkungan & Spesifikasi
 - **Operating System**: Amazon Linux 2023 (AWS EC2)
 - **Script Language**: Bash (`.sh`)
 - **Target User**: Root / Sudoer
 
-## Fitur (Menjawab Soal No. 5)
+## Fitur 
 Skrip `setup_server.sh` menjalankan tugas-tugas berikut secara berurutan sesuai persyaratan soal:
 
 | Poin | Deskripsi Tugas | Implementasi dalam Script |
