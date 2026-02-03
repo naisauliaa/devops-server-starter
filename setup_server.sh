@@ -40,4 +40,3 @@ echo "--- Instalasi Selesai ---"
 docker --version
 python3 --version
 
-echo "PENTING: Silakan LOGOUT dan LOGIN kembali agar perubahan grup Docker aktif."
